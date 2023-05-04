@@ -1,0 +1,7 @@
+﻿sr_no,Identification_no,Type_ of_mould ,area _of _mould,ingridients_in_paving_sand_In_KG,ingridients_in_paving_plastic_%,Load,Weight ,Compressive_Strength
+,R1,rectangular,29900,0.695,50,461,1.39,15.41
+,B1,hexagon,34359.55,1.535,40,600,2.565,17.462
+,B2,hexagon,34359.55,2.3,30,999,3.375,29.07
+,B3,hexagon,34359.55,2.3,55,718,2.91,14.93
+,B4,hexagon,34359.55,2.3,25,513,3.325,20.89
+,R2,rectangular,29900,1.23,60,190,3.87,6.534
